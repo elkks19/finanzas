@@ -1,0 +1,44 @@
+
+2026-02-28 Mesada papá
+    Bienes:Efectivo                  300
+    Ingresos:Mesada:Papa            -300
+
+2026-02-28 Fresas con crema
+    Gastos:Salidas:Comida              56
+    Bienes:Efectivo                   -56
+
+2026-02-28 Envios 28/02/2026 de noah (25 Urus y 25 lujpansa)
+    Bienes:CuentasPorCobrar:Noah              50
+    Bienes:Efectivo                          -50
+
+2026-02-28 Pago por los envios del 28/02/2026 de noah
+    Bienes:Banca:BNB                          50
+    Bienes:CuentasPorCobrar:Noah             -50
+
+2026-02-28 Gastos en pasajes
+    Gastos:Pasajes                8
+    Bienes:Efectivo              -8
+
+2026-02-28 Pasajes casa amor a mi casa
+    Gastos:Pasajes                5
+    Bienes:Efectivo              -5
+
+2026-02-28 Restos de la semanada de mi gfa
+    Bienes:Banca:BNB               14.08
+    Ingresos:Mesada:Mama          -14.08
+
+2026-02-28 Ajuste para los centavos de la cuenta del banco economico
+    Bienes:Banca:Economico             0.9
+    Ingresos:Mesada:Mama              -0.9
+
+2026-02-28 Ajuste para los centavos de la cuenta del mercantil
+    Bienes:Banca:BMSC               4.75
+    Ingresos:Mesada:Mama           -4.75
+
+2026-02-28 Ajuste para los ingresos de k pintuda
+    KPintuda:Yape               73.04
+    Ingresos:Ventas:KPintuda          -73.04
+
+2026-02-28 Ajuste para los ingresos de k pintuda
+    KPintuda:Altoke            207.30
+    Ingresos:Ventas:KPintuda         -207.30
