@@ -4,7 +4,7 @@
     Ingresos:Mesada:Papa            -300
 
 2026-02-28 Fresas con crema
-    Gastos:Salidas:Comida              56
+    Gastos:Comida              56
     Bienes:Efectivo                   -56
 
 2026-02-28 Envios 28/02/2026 de noah (25 Urus y 25 lujpansa)
@@ -42,3 +42,23 @@
 2026-02-28 Ajuste para los ingresos de k pintuda
     KPintuda:Altoke            207.30
     Ingresos:Ventas:KPintuda         -207.30
+
+2026-03-02 Pasaje para bajar a la uni
+    Gastos:Pasajes                3
+    Bienes:Efectivo              -3
+
+2026-03-02 Credito para paquetigo
+    Gastos:Credito                 3
+    Bienes:Banca:BNB              -3
+
+2026-03-02 Pasajes para volver a casita
+    Gastos:Pasajes             10.5
+    Bienes:Efectivo           -10.5
+
+2026-03-02 Papookiessss
+    Gastos:Comida                22
+    Bienes:Efectivo             -22
+
+2026-03-02 Mesada marzo primera semana
+    Bienes:Banca:Economico             100
+    Ingresos:Mesada:Mama              -100
