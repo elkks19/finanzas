@@ -62,3 +62,27 @@
 2026-03-02 Mesada marzo primera semana
     Bienes:Banca:Economico             100
     Ingresos:Mesada:Mama              -100
+
+2026-03-03 Pasajes bajar a comprar tenis a los pinos
+    Gastos:Pasajes              6.5
+    Bienes:Efectivo            -6.5
+
+2026-03-03 Agua de litro que me compre en la uni
+    Gastos:Comida               6.5
+    Bienes:Efectivo            -6.5
+
+2026-03-03 Fotocopias para renovar el seguro (factura del certificado y carnet, 2 de cada uno)
+    Gastos:Varios               1.5
+    Bienes:Efectivo            -1.5
+
+2026-03-03 Pago certificado de estudiante regular uni
+    Bienes:CuentasPorCobrar:Mama              40
+    Bienes:Efectivo                          -40
+
+2026-03-03 Pago proyecto integrador (por cobrar)
+    Bienes:CuentasPorCobrar:Mama              80
+    Bienes:Banca:Economico                   -80
+
+2026-03-03 Paquetigo para hoy
+    Gastos:Credito                 3
+    Bienes:Banca:BNB              -3
