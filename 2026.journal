@@ -86,3 +86,27 @@
 2026-03-03 Paquetigo para hoy
     Gastos:Credito                 3
     Bienes:Banca:BNB              -3
+
+2026-03-03 Pasajes de vuelta a casita
+    Gastos:Pasajes              11.5
+    Bienes:Efectivo            -11.5
+
+2026-03-03 Comida (salchipapa)
+    Gastos:Comida                15
+    Bienes:Efectivo             -15
+
+2026-03-03 Plata para el capi lara
+    Bienes:Ahorros:CapiLara               5
+    Bienes:Efectivo                      -5
+
+2026-03-03 Entradas para nia cole
+    Gastos:Varios:Conciertos              50
+    Bienes:Banca:BNB                     -50
+
+2026-03-04 Paquetigo del dia xd
+    Gastos:Credito                 3
+    Bienes:Banca:BNB              -3
+
+2026-03-04 Gfa me pago los tramites de la uni
+    Bienes:Banca:BNB                         120
+    Bienes:CuentasPorCobrar:Mama            -120
