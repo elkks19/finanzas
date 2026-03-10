@@ -5,15 +5,15 @@
 
 2026-02-28 Fresas con crema
     Gastos:Comida              56
-    Bienes:Efectivo                   -56
+    Bienes:Efectivo           -56
 
 2026-02-28 Envios 28/02/2026 de noah (25 Urus y 25 lujpansa)
-    Bienes:CuentasPorCobrar:Noah              50
-    Bienes:Efectivo                          -50
+    CuentasPorCobrar:Noah              50
+    Bienes:Efectivo                   -50
 
 2026-02-28 Pago por los envios del 28/02/2026 de noah
-    Bienes:Banca:BNB                          50
-    Bienes:CuentasPorCobrar:Noah             -50
+    Bienes:Banca:BNB                   50
+    CuentasPorCobrar:Noah             -50
 
 2026-02-28 Gastos en pasajes
     Gastos:Pasajes                8
@@ -36,11 +36,11 @@
     Ingresos:Mesada:Mama           -4.75
 
 2026-02-28 Ajuste para los ingresos de k pintuda
-    KPintuda:Yape               73.04
+    KPintuda:Yape                      73.04
     Ingresos:Ventas:KPintuda          -73.04
 
 2026-02-28 Ajuste para los ingresos de k pintuda
-    KPintuda:Altoke            207.30
+    KPintuda:Altoke                   207.30
     Ingresos:Ventas:KPintuda         -207.30
 
 2026-03-02 Pasaje para bajar a la uni
@@ -76,12 +76,12 @@
     Bienes:Efectivo            -1.5
 
 2026-03-03 Pago certificado de estudiante regular uni
-    Bienes:CuentasPorCobrar:Mama              40
-    Bienes:Efectivo                          -40
+    CuentasPorCobrar:Mama              40
+    Bienes:Efectivo                   -40
 
 2026-03-03 Pago proyecto integrador (por cobrar)
-    Bienes:CuentasPorCobrar:Mama              80
-    Bienes:Banca:Economico                   -80
+    CuentasPorCobrar:Mama              80
+    Bienes:Banca:Economico            -80
 
 2026-03-03 Paquetigo para hoy
     Gastos:Credito                 3
@@ -108,5 +108,62 @@
     Bienes:Banca:BNB              -3
 
 2026-03-04 Gfa me pago los tramites de la uni
-    Bienes:Banca:BNB                         120
-    Bienes:CuentasPorCobrar:Mama            -120
+    Bienes:Banca:BNB                  120
+    CuentasPorCobrar:Mama            -120
+
+2026-03-05 Pasajes para bajar a la uni
+    Gastos:Pasajes                6
+    Bienes:Efectivo              -6
+
+2026-03-05 Pasajes para volver de la uni
+    Gastos:Pasajes              3.5
+    Bienes:Efectivo            -3.5
+
+
+2026-03-05 Mama burger andy y fabri
+    Bienes:Banca:BNB              68
+    CuentasPorCobrar             -68
+
+2026-03-05 Mama burger fabi + 17 pesos pa las cocas
+    Bienes:Efectivo               50
+    CuentasPorCobrar             -50
+
+2026-03-05 Mama burger amor + 1 peso pa las cocas
+    Bienes:Efectivo               36
+    CuentasPorCobrar             -36
+
+2026-03-05 Mama burger (pago de todos)
+    Gastos:Comida                191
+    Bienes:Banca:BNB            -191
+
+2026-03-05 Gfe me regala 10 peso
+    Bienes:Efectivo 		     10
+    Ingresos:Mesada:Papa        -10
+
+2026-03-05 Kleenex
+    Gastos:Kleenex            2
+	Bienes:Efectivo 		 -2
+
+2026-03-05 Gastos pasajes a la uni y de vuelta
+    Gastos:Pasajes             18
+    Bienes:Efectivo           -18
+
+2026-03-05 Tortas xd
+    Gastos:Comida              16.5
+    Bienes:Efectivo           -16.5
+
+2026-03-06 Comida en typica
+    Gastos:Comida                11
+    Bienes:Efectivo             -11
+
+2026-03-06 Papas moco
+    Gastos:Comida                 4
+    Bienes:Efectivo              -4
+
+2026-03-06 Juguito de tumbo
+    Gastos:Comida                20
+    Bienes:Efectivo             -20
+
+2026-03-06 Pines de nia cole
+	Gastos:Varios:Conciertos          8
+	Bienes:Efectivo                  -8
